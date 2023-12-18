@@ -1,0 +1,2 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\DebuggingExercises\obj\x86\Debug\Debugging Exercises.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\DebuggingExercises\obj\x86\Debug\Debugging Exercises.csproj.CoreCompileInputs.cache
