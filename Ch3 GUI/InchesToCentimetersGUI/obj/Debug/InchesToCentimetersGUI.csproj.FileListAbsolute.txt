@@ -1,0 +1,20 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.Form1.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.Properties.Resources.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.GenerateResource.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.Form1.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.Properties.Resources.resources
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.GenerateResource.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch3 GUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.pdb
