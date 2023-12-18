@@ -1,0 +1,6 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex14\bin\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex14\bin\Debug\ConsoleApplication.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex14\obj\x86\Debug\Planets.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex14\obj\x86\Debug\Planets.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex14\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex14\obj\x86\Debug\ConsoleApplication.pdb

@@ -1,0 +1,6 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex10\bin\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex10\bin\Debug\ConsoleApplication.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex10\obj\x86\Debug\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex10\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex10\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex10\obj\x86\Debug\MakeChange.csproj.AssemblyReference.cache

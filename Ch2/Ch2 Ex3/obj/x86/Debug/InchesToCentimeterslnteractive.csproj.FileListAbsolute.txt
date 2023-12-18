@@ -1,0 +1,6 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex3\obj\x86\Debug\InchesToCentimeterslnteractive.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex3\obj\x86\Debug\InchesToCentimeterslnteractive.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex3\bin\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex3\bin\Debug\ConsoleApplication.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex3\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch2\Ch2 Ex3\obj\x86\Debug\ConsoleApplication.pdb
