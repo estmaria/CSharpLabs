@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugNine3", "DebugNine3.csproj", "{C487CFE7-71AA-46B3-A180-68DAE19649B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C487CFE7-71AA-46B3-A180-68DAE19649B1}.Debug|x86.ActiveCfg = Debug|x86
+		{C487CFE7-71AA-46B3-A180-68DAE19649B1}.Debug|x86.Build.0 = Debug|x86
+		{C487CFE7-71AA-46B3-A180-68DAE19649B1}.Release|x86.ActiveCfg = Release|x86
+		{C487CFE7-71AA-46B3-A180-68DAE19649B1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1BC0140-47CB-49E8-B88D-AF5CB8A3A9A9}
+	EndGlobalSection
+EndGlobal
