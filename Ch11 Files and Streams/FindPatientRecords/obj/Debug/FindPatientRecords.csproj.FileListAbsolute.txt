@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords\bin\Debug\FindPatientRecords.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords\bin\Debug\FindPatientRecords.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords\bin\Debug\FindPatientRecords.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords\obj\Debug\FindPatientRecords.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords\obj\Debug\FindPatientRecords.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords\obj\Debug\FindPatientRecords.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords\obj\Debug\FindPatientRecords.pdb

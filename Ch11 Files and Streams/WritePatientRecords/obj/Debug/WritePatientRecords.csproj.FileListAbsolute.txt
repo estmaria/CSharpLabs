@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\WritePatientRecords\bin\Debug\WritePatientRecords.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\WritePatientRecords\bin\Debug\WritePatientRecords.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\WritePatientRecords\bin\Debug\WritePatientRecords.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\WritePatientRecords\obj\Debug\WritePatientRecords.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\WritePatientRecords\obj\Debug\WritePatientRecords.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\WritePatientRecords\obj\Debug\WritePatientRecords.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\WritePatientRecords\obj\Debug\WritePatientRecords.pdb

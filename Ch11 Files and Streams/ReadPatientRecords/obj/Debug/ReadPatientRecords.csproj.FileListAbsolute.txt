@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\ReadPatientRecords\bin\Debug\ReadPatientRecords.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\ReadPatientRecords\bin\Debug\ReadPatientRecords.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\ReadPatientRecords\bin\Debug\ReadPatientRecords.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\ReadPatientRecords\obj\Debug\ReadPatientRecords.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\ReadPatientRecords\obj\Debug\ReadPatientRecords.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\ReadPatientRecords\obj\Debug\ReadPatientRecords.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\ReadPatientRecords\obj\Debug\ReadPatientRecords.pdb

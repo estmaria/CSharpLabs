@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords (min balance)\obj\Debug\FindPatientRecords (min balance).csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords (min balance)\bin\Debug\FindPatientRecords (min balance).exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords (min balance)\bin\Debug\FindPatientRecords (min balance).exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords (min balance)\bin\Debug\FindPatientRecords (min balance).pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords (min balance)\obj\Debug\FindPatientRecords (min balance).csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords (min balance)\obj\Debug\FindPatientRecords (min balance).exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch11 Files and Streams\FindPatientRecords (min balance)\obj\Debug\FindPatientRecords (min balance).pdb
