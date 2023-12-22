@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\Movie\bin\Debug\Movie.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\Movie\bin\Debug\Movie.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\Movie\bin\Debug\Movie.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\Movie\obj\Debug\Movie.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\Movie\obj\Debug\Movie.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\Movie\obj\Debug\Movie.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\Movie\obj\Debug\Movie.pdb

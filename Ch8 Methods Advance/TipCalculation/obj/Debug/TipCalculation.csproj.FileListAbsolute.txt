@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\TipCalculation\bin\Debug\TipCalculation.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\TipCalculation\bin\Debug\TipCalculation.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\TipCalculation\bin\Debug\TipCalculation.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\TipCalculation\obj\Debug\TipCalculation.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\TipCalculation\obj\Debug\TipCalculation.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\TipCalculation\obj\Debug\TipCalculation.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch8 Methods\TipCalculation\obj\Debug\TipCalculation.pdb
