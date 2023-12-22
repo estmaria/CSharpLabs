@@ -1,0 +1,6 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\HurricaneModularized\bin\Debug\HurricaneModularized.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\HurricaneModularized\bin\Debug\HurricaneModularized.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\HurricaneModularized\bin\Debug\HurricaneModularized.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\HurricaneModularized\obj\Debug\HurricaneModularized.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\HurricaneModularized\obj\Debug\HurricaneModularized.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\HurricaneModularized\obj\Debug\HurricaneModularized.pdb

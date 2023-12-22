@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\PaintingEstimate\bin\Debug\PaintingEstimate.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\PaintingEstimate\bin\Debug\PaintingEstimate.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\PaintingEstimate\bin\Debug\PaintingEstimate.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\PaintingEstimate\obj\Debug\PaintingEstimate.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\PaintingEstimate\obj\Debug\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\PaintingEstimate\obj\Debug\PaintingEstimate.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch7 Methods\PaintingEstimate\obj\Debug\PaintingEstimate.pdb
