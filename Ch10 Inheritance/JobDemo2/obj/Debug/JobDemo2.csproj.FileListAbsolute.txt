@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo2\JobDemo2\obj\Debug\JobDemo2.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo2\JobDemo2\obj\Debug\JobDemo2.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo2\JobDemo2\bin\Debug\JobDemo2.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo2\JobDemo2\bin\Debug\JobDemo2.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo2\JobDemo2\bin\Debug\JobDemo2.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo2\JobDemo2\obj\Debug\JobDemo2.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo2\JobDemo2\obj\Debug\JobDemo2.pdb

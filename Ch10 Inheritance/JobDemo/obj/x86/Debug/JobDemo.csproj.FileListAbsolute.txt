@@ -1,0 +1,12 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\bin\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\bin\Debug\ConsoleApplication.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\obj\x86\Debug\JobDemo.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\obj\x86\Debug\JobDemo.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo\bin\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo\bin\Debug\ConsoleApplication.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo\obj\x86\Debug\JobDemo.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo\obj\x86\Debug\JobDemo.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch10 Inheritance\JobDemo\obj\x86\Debug\ConsoleApplication.pdb
