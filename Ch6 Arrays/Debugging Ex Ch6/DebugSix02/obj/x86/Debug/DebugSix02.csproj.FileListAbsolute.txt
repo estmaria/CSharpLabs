@@ -1,0 +1,6 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Debugging Exercises\Debugging Ex Ch6\DebugSix02\bin\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Debugging Exercises\Debugging Ex Ch6\DebugSix02\bin\Debug\ConsoleApplication.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Debugging Exercises\Debugging Ex Ch6\DebugSix02\obj\x86\Debug\DebugSix02.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Debugging Exercises\Debugging Ex Ch6\DebugSix02\obj\x86\Debug\DebugSix02.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Debugging Exercises\Debugging Ex Ch6\DebugSix02\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Debugging Exercises\Debugging Ex Ch6\DebugSix02\obj\x86\Debug\ConsoleApplication.pdb
