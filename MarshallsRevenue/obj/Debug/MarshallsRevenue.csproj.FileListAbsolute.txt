@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\MarshallsRevenue\obj\Debug\MarshallsRevenue.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\MarshallsRevenue\obj\Debug\MarshallsRevenue.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\MarshallsRevenue\bin\Debug\MarshallsRevenue.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\MarshallsRevenue\obj\Debug\MarshallsRevenue.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\MarshallsRevenue\obj\Debug\MarshallsRevenue.pdb
