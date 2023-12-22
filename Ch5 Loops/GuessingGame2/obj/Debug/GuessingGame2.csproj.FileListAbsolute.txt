@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch5 Loops\GuessingGame2\bin\Debug\GuessingGame2.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch5 Loops\GuessingGame2\bin\Debug\GuessingGame2.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch5 Loops\GuessingGame2\bin\Debug\GuessingGame2.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch5 Loops\GuessingGame2\obj\Debug\GuessingGame2.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch5 Loops\GuessingGame2\obj\Debug\GuessingGame2.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch5 Loops\GuessingGame2\obj\Debug\GuessingGame2.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\Ch5 Loops\GuessingGame2\obj\Debug\GuessingGame2.pdb
